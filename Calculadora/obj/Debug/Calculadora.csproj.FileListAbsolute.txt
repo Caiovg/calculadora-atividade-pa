@@ -1,0 +1,10 @@
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Dell\Documents\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Dell\Documents\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Dell\Documents\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
